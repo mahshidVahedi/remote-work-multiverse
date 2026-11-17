@@ -2,7 +2,7 @@
 
 Code and documentation for a course paper (Scientific Research Techniques and Publication Ethics, Istanbul University) by Mahshid Vahedi. The study estimates the job-satisfaction gap between remote, hybrid and in-person developers in the 2024 and 2025 Stack Overflow Developer Surveys under 48 registered analytic specifications.
 
-Preregistration (OSF): [link to be added]
+Preregistration (OSF): https://doi.org/10.17605/OSF.IO/FE3UM (registered 17 November 2026)
 
 ## Data
 
