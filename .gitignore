@@ -1,0 +1,5 @@
+# raw survey files are not committed (size and licence); see README
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
